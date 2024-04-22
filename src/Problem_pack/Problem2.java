@@ -1,3 +1,5 @@
+package Problem_pack;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 public class Problem2 {

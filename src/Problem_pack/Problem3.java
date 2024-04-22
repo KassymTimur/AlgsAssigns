@@ -1,3 +1,5 @@
+package Problem_pack;
+
 import java.util.*;
 import java.util.LinkedList;
 public class Problem3 {
